@@ -5,4 +5,4 @@ We provide the ID of the images used for both the training and the test data set
 We underline that the training data set has been built from the listed images, generating the related patches according to [1] for the training of the learning-based model for the prediction of the 
 threshold values of the singular value decomposition.
 
-[1] Cammarasana, Simone, and Giuseppe Patane. "Learning-based low-rank denoising." *Signal, Image and Video Processing* 17.2 (2023): 535-541.
+[1] Cammarasana, Simone, and Giuseppe Patanè. "Learning-based low-rank denoising." *Signal, Image and Video Processing* 17.2 (2023): 535-541.
