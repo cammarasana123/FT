@@ -1,3 +1,0 @@
-#Test description
-
-We provide an analysis on the truncation of the spectrum. We show that the PSNR value computed between the ground-truth image and the denoised image increases up to a certain truncation value, then decreases. Through this experimental approach, we can identify the best truncation value.
