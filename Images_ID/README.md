@@ -1,6 +1,6 @@
 # Training and test images
 
-We provide the ID of the images used for both the training and the test data set.
+We provide the ID of the images used respectively for the training and the test data set.
 
 The training data set is composed of more than **200K** elements per each model.
 In fact, the data set has been built from the listed images, generating the related 3D blocks according to [1].
