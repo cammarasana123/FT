@@ -7,5 +7,7 @@ We provide the list of the images from the ImageNet database for our testing dat
 ## Reference paper
 https://ieeexplore.ieee.org/abstract/document/10740054/
 
+https://ieeexplore.ieee.org/abstract/document/10417776
+
 ## Requirements
 Matlab 2022a
