@@ -1,4 +1,4 @@
-# Generalized Fuzzy Transform and Non-Local Laplace Operator
+# Fuzzy transform and applications
 
 We provide the list of the images from the ImageNet database for our testing data set, the list of the training images as described in [1], and some additional results on the selection of the parameter for the truncation of the eigenvalues spectrum and the image denoising.
 
